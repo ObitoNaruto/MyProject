@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">冀秦</string>
+
+    <string-array name="me_tab_lists">
+        <item>交通</item>
+        <item>生活</item>
+        <item>医疗</item>
+        <item>直播</item>
+        <item>公共</item>
+    </string-array>
+</resources>
